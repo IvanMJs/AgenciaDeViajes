@@ -1,0 +1,19 @@
+{
+  "name": "intronodejs",
+  "version": "1.0.0",
+  "description": "Aprendiendo Nodejs, Express y Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "Iván Meyer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql2": "^1.6.5",
+    "nodemon": "^1.18.10",
+    "pug": "^2.0.3",
+    "sequelize": "^4.42.0"
+  }
+}
